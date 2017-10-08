@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="FileCrypt \nWill you Rate Us Five Star?"
+        android:text="PrivacyShield \nWill you Rate Us Five Star?"
         android:textAlignment="center"/>
 
     <ImageView
