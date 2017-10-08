@@ -1,6 +1,6 @@
 # PrivacyShield
 
-## An Android App for storing & managing Confidential Documents with a Master Password. :smile:
+## An Android Application for storing & managing Confidential Documents with a Master-Password. :smile:
 
 ### Salient Features:
 - Secure Note Making
