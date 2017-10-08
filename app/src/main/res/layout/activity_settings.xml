@@ -4,7 +4,7 @@
     android:id="@+id/activity_settings"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mysterious.filecrypt.Activities.SettingsActivity">
+    tools:context="com.example.mysterious.privacyshield.Activities.SettingsActivity">
 
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"

@@ -4,7 +4,7 @@
     android:id="@+id/activity_team"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mysterious.filecrypt.Activities.TeamActivity">
+    tools:context="com.example.mysterious.privacyshield.Activities.TeamActivity">
 
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"

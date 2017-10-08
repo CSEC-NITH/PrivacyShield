@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mysterious.filecrypt">
+    package="com.example.mysterious.privacyshield">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -11,31 +11,31 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.WelcomeActivity">
+        <activity android:name="com.example.mysterious.privacyshield.Activities.WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.HomeActivity" />
-        <activity android:name=".Activities.CheckInActivity" />
-        <activity android:name=".Activities.LoadingActivity" />
-        <activity android:name=".Activities.VaultActivity" />
-        <activity android:name=".Activities.AddToVaultActivity" />
-        <activity android:name=".Activities.RegisterDpSelectActivity" />
-        <activity android:name=".Activities.RegisterSetNameActivity" />
-        <activity android:name=".Activities.RegisterGenPassActivity" />
-        <activity android:name=".Activities.ForgotPasswordActivity" />
-        <activity android:name=".Activities.ViewNotesActivity" />
-        <activity android:name=".Activities.ViewTodoActivity" />
-        <activity android:name=".Activities.CreateNoteActivity" />
-        <activity android:name=".Activities.CreateTodoActivity" />
-        <activity android:name=".Activities.SettingsActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.HomeActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.CheckInActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.LoadingActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.VaultActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.AddToVaultActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.RegisterDpSelectActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.RegisterSetNameActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.RegisterGenPassActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.ForgotPasswordActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.ViewNotesActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.ViewTodoActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.CreateNoteActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.CreateTodoActivity" />
+        <activity android:name="com.example.mysterious.privacyshield.Activities.SettingsActivity" />
 
-        <activity android:name=".Activities.TeamActivity"/>
-        <activity android:name=".Activities.ViewNoteDescriptionActivity"/>
-        <activity android:name=".Activities.AboutActivity"></activity>
+        <activity android:name="com.example.mysterious.privacyshield.Activities.TeamActivity"/>
+        <activity android:name="com.example.mysterious.privacyshield.Activities.ViewNoteDescriptionActivity"/>
+        <activity android:name="com.example.mysterious.privacyshield.Activities.AboutActivity"></activity>
 
     </application>
 

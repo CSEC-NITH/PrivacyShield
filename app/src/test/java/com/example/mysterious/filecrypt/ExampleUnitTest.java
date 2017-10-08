@@ -1,4 +1,4 @@
-package com.example.mysterious.filecrypt;
+package com.example.mysterious.privacyshield;
 
 import org.junit.Test;
 
